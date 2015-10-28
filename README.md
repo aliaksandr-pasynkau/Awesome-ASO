@@ -29,11 +29,18 @@ A curated list about App Store Optimization info, resources and tools.
   18. [Apple Updates App Store Search Ranking Algorithm](http://searchengineland.com/apple-updates-app-store-search-ranking-algorithm-226056)
   19. [Detailed Guide On App Store Optimization](http://shanebarker.com/detailed-guide-on-app-store-optimization/)
   20. [iOS 9 y ASO 2.0: Una vuelta de tuerca a las búsquedas (App Indexing)](http://pickaso.com/2015/ios-9-aso-2-0-encontrar-apps)
+  21. [How To Create Effective App Screenshots For Your App Store Page](http://www.smashingmagazine.com/2015/03/create-effective-app-screenshots-for-app-page/)
+
+## Articles about A/B testing for ASO
+  1. [How Angry Birds publisher Rovio maximizes organic installs via A/B testing](http://venturebeat.com/2015/08/12/how-angry-birds-publisher-rovio-maximizes-organic-installs-via-ab-testing/)
+  2. [What A/B Testing Taught Us About App Store Optimization](http://www.smashingmagazine.com/2015/08/ab-testing-taught-app-store-optimization/
+  3. [Is A/B testing a good idea for a branded iPAD app?](http://bambooapps.eu/blog/current?id=49#)
 
 ## Tools
   1. [Deeplink](http://www.deeplink.me)
   2. [SensorTower](https://sensortower.com)
   3. [Appannie](https://www.appannie.com/tours/audience-intelligence)
+  4. [SplitMetrics](https://splitmetrics.com/)
 
 ## Books
   1. [Hooked: How to Build Habit-Forming Products](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
