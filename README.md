@@ -33,7 +33,7 @@ A curated list about App Store Optimization info, resources and tools.
 
 ## Articles about A/B testing for ASO
   1. [How Angry Birds publisher Rovio maximizes organic installs via A/B testing](http://venturebeat.com/2015/08/12/how-angry-birds-publisher-rovio-maximizes-organic-installs-via-ab-testing/)
-  2. [What A/B Testing Taught Us About App Store Optimization](http://www.smashingmagazine.com/2015/08/ab-testing-taught-app-store-optimization/
+  2. [What A/B Testing Taught Us About App Store Optimization](http://www.smashingmagazine.com/2015/08/ab-testing-taught-app-store-optimization/)
   3. [Is A/B testing a good idea for a branded iPAD app?](http://bambooapps.eu/blog/current?id=49#)
 
 ## Tools
